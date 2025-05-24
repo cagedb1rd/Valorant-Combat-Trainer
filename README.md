@@ -36,3 +36,11 @@ An interactive text-based Python game inspired by **Valorant**. Players manage a
 - No external libraries required
 
 ---
+
+## 🚀 How to Run
+
+1. Clone or download this repository.
+
+2. Run `main.py` to start the game.
+
+---
